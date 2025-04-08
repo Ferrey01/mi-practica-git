@@ -1,2 +1,6 @@
 Este es el archivo base
+<<<<<<< HEAD
 Otro cambio diferente desde main
+=======
+Cambio desde feature-2
+>>>>>>> feature-2
